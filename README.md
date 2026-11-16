@@ -63,9 +63,9 @@ Below are the leading commercial platforms delivering embedded generative assist
 
 Self-hosted resilience frameworks, open-source AI guardrails, and automated backup engines for developers requiring complete data sovereignty, zero LLM telemetry exfiltration, and human-in-the-loop validation.
 
-> *Table sorted descending by **GitHub Stars**.*
+> *Table sorted descending by **GitHub_Stars**.*
 
-| Project | Stars | Focus & Description |
+| Project | GitHub_Stars | Focus & Description |
 |:---|:---|:---|
 | **[Wazuh](https://github.com/wazuh/wazuh)** | [![Stars](https://img.shields.io/github/stars/wazuh/wazuh?style=social&color=white)](https://github.com/wazuh/wazuh/stargazers) | **Unified SIEM and XDR Security Engine.** Open-source platform providing file integrity monitoring (FIM), anomaly detection, root-cause compliance reporting, and automated response hooks to guard backup repositories and enterprise servers against ransomware attacks. |
 | **[Presidio](https://github.com/data-privacy-stack/presidio)** | [![Stars](https://img.shields.io/github/stars/data-privacy-stack/presidio?style=social&color=white)](https://github.com/data-privacy-stack/presidio/stargazers) | **Data Protection & PII Anonymization Layer for AI.** Industry-standard contextual engine for recognizing, anonymizing, and redacting Personally Identifiable Information (PII) before feeding unstructured backup logs or user records into generative AI models. |
@@ -120,3 +120,12 @@ Thank you for exploring and using the **Awesome Generative AI Data Protection As
 </p>
 
 *Built with ❤️ for backup administrators, security architects, and cyber-resilience engineers.*
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Generative-AI-Data-Protection-Assistant&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Generative-AI-Data-Protection-Assistant_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Generative-AI-Data-Protection-Assistant_growth.svg">
+  </picture>
+</a>
