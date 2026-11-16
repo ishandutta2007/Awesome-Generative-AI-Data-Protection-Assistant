@@ -1,6 +1,6 @@
 # Awesome-Generative-AI-Data-Protection-Assistant
 
-# Top Generative AI Data Protection Assistant Ecosystem
+## Top Generative AI Data Protection Assistant Ecosystem
 
 **Curated List of SaaS Platforms & Open-Source GitHub Projects**  
 *Focused on AI-Assisted Backup Operations, Threat Triage & Self-Hosted Resilience Agents*  
